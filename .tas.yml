@@ -14,5 +14,5 @@ preRun:
 postRun:
      command:
         - node --version
-parallelism : 16
+parallelism : 32
 version: 1.13.3
